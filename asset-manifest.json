@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/20191101.git/static/css/main.daf66792.css",
-    "main.js": "/20191101.git/static/js/main.7672d0f6.js",
-    "index.html": "/20191101.git/index.html",
-    "main.daf66792.css.map": "/20191101.git/static/css/main.daf66792.css.map",
-    "main.7672d0f6.js.map": "/20191101.git/static/js/main.7672d0f6.js.map"
+    "main.css": "/20191101/static/css/main.daf66792.css",
+    "main.js": "/20191101/static/js/main.7672d0f6.js",
+    "index.html": "/20191101/index.html",
+    "main.daf66792.css.map": "/20191101/static/css/main.daf66792.css.map",
+    "main.7672d0f6.js.map": "/20191101/static/js/main.7672d0f6.js.map"
   },
   "entrypoints": [
     "static/css/main.daf66792.css",
